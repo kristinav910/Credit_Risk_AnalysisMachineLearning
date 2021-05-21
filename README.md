@@ -1,4 +1,4 @@
-# Unit_11_Homework
+# Credit Risk Analysis Machine Learning
 Completed 2 exercises in risk analysis for lending methods using machine learning models to predict credit risk. 
 ## Exercise 1
 ### Resampling
